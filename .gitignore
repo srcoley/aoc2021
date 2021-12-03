@@ -1,4 +1,5 @@
 aoc*
 run
 *.dSYM
+.vscode
 !*.c
